@@ -5,3 +5,5 @@ groq
 duckduckgo-search
 google-search-results
 googlesearch-python
+requests
+pandas
