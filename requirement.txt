@@ -7,3 +7,5 @@ google-search-results
 googlesearch-python
 requests
 pandas
+phidata
+phi
