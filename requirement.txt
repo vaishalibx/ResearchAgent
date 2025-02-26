@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-phidata
+phi-agent==0.35.0
 groq
 duckduckgo-search
 google-search-results
