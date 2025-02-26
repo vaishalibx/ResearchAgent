@@ -1,9 +1,7 @@
-# Core dependencies
 streamlit
 dotenv
 phidata
 groq
-# Search tools dependencies
 duckduckgo-search
 google-search-results
 googlesearch-python
