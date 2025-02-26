@@ -1,6 +1,6 @@
 # Core dependencies
 streamlit
-python-dotenv
+dotenv
 phidata
 groq
 # Search tools dependencies
